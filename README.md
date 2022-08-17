@@ -46,6 +46,7 @@ Nesse projeto serão aplicados conhecimentos de python e suas bibliotecas voltad
         - 8719
     - [x] Número de Imóveis que tenham pelo menos 4 quartos e aluguel menor que R$ 2.000,00.
         - 41
+- [x] Tratando Valores Nulos
 
 # Autor
 
