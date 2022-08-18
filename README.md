@@ -47,6 +47,10 @@ Nesse projeto serão aplicados conhecimentos de python e suas bibliotecas voltad
     - [x] Número de Imóveis que tenham pelo menos 4 quartos e aluguel menor que R$ 2.000,00.
         - 41
 - [x] Tratando Valores Nulos
+- [x] Novas Variáveis
+    - [x] Valor do Metro Quadrado
+    - [x] Tipos Agregados de Residências 
+        - Casas e Condominios  
 
 # Autor
 
