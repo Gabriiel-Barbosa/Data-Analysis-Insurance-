@@ -51,7 +51,12 @@ Nesse projeto serão aplicados conhecimentos de python e suas bibliotecas voltad
     - [x] Valor do Metro Quadrado
     - [x] Tipos Agregados de Residências 
         - Casas e Condominios  
-
+- [x] Gráfico Com o Valor Médio do Aluguel Por Bairro (Todos os Bairros) <br>
+<p>
+<img src="graphics/aluguel_valor_medio.png" width="100%">
+</p>
+    
+- [] Remover Todas Outliners 
 # Autor
 
 * Gabriel Barbosa
