@@ -2,7 +2,7 @@
 
 <div>
 
-<p align="center">Projeto de Análise de Dados  Para Uma Seguradora </p>
+<p align="center">Projeto de Análise de Dados Para Uma Seguradora </p>
 
 </div>
 
@@ -15,7 +15,7 @@
 </div>
 
 <h4 align = "center">
-🚧 Em Contrução🚧
+✔️Projeto Concluído✔️
 
 </h4>
 
@@ -32,6 +32,7 @@ Nesse projeto serão aplicados conhecimentos de python e suas bibliotecas voltad
 
 **Biblioteca(s)**
 * Pandas
+* Matlplotlib 
 
 
 # Solicitações
@@ -56,7 +57,13 @@ Nesse projeto serão aplicados conhecimentos de python e suas bibliotecas voltad
 <img src="graphics/aluguel_valor_medio.png" width="100%">
 </p>
     
-- [] Remover Todas Outliners 
+- [x] Remover Todas Outliners 
+    - [x] Análise Geral
+    <img src="graphics/outliners_geral.png" width="100%">
+
+    - [x] Análise Por Grupo
+    <img src="graphics/outliners_grupo.png" width="100%">
+
 # Autor
 
 * Gabriel Barbosa
